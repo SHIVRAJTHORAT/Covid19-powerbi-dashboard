@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d9c0fb02-2e5e-4440-ae4b-5dd656d7e3f5)# 🌍 COVID-19 Power BI Dashboard
+# 🌍 COVID-19 Power BI Dashboard
 A Power BI dashboard analyzing global COVID-19 data (cases, deaths, recovery, active).
 A visually interactive dashboard built using Power BI to analyze real-time global COVID-19 data.
 
@@ -20,7 +20,7 @@ A visually interactive dashboard built using Power BI to analyze real-time globa
 
 ## 📸 Screenshots
 
-![Dashboard Preview]("C:\Users\dell\OneDrive\Desktop\covid_tracker_project\dashboard.jpeg")
+![Dashboard Preview]
 
 ## 📂 Files Included
 

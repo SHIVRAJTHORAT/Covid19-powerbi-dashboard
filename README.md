@@ -1,7 +1,5 @@
-# Covid19-powerbi-dashboard
-A Power BI dashboard analyzing global COVID-19 data (cases, deaths, recovery, active).
 # 🌍 COVID-19 Power BI Dashboard
-
+A Power BI dashboard analyzing global COVID-19 data (cases, deaths, recovery, active).
 A visually interactive dashboard built using Power BI to analyze real-time global COVID-19 data.
 
 ## 📊 Features
